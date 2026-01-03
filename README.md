@@ -17,7 +17,9 @@ The analysis demonstrates how data can guide **AI-driven product decisions and c
 ## Key Findings
 - **Early engagement matters:** Videos with higher likes and shares in the first few days tend to retain viewers better and gain more subscribers.  
 - **Retention trends:** Average view percentage decreases over time, highlighting which videos maintain audience attention.  
-- **Top-performing videos:** Identified videos that consistently convert viewers into long-term subscribers, helping prioritize content promotion.  
+- **Top-performing videos:** Identified videos that consistently convert viewers into long-term subscribers, helping prioritize content promotion.
+    
+![Views Over Time](views_over_time.png)
 
 ---
 
