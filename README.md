@@ -21,6 +21,7 @@ The analysis demonstrates how data can guide **AI-driven product decisions and c
     
 ![Views Over Time](views_over_time.png)
 
+![Retention trend](retention_over_time.png)
 ---
 
 ## Skills Demonstrated
