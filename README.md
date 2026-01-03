@@ -36,4 +36,4 @@ The analysis demonstrates how data can guide **AI-driven product decisions and c
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/youtube-engagement-analysis.git
+   git clone https://github.com/Lorax6/youtube-engagement-analysis.git
